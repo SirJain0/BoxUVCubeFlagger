@@ -1,4 +1,4 @@
-# boxuv_cube_flagger
+# BoxUV Cube Flagger
 Blockbench Plugin
 
 Capabilities: Flag decimal sized cubes, flag cubes less than 1 unit
